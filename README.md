@@ -1,19 +1,13 @@
 # 🌟 Hey, I'm **Simon** 👋  
-### Developer • Amherst College Student • Tech Enthusiast  
----
-
-## 🔥 About Me  
+### Developer • Amherst College Student • Tech Enthusiast    
 🎓 First-year student at **Amherst College**, currently taking **Java**  
 💻 Passionate about **software development**, **problem-solving**, and building real systems  
 🎶 I enjoy **music, dance, programming, and swimming**   
-
----
 
 ## 🚀 What I'm Working On  
 ### **SmartQueue Management System**  
 A Java-based queue automation system designed to streamline organization and improve efficiency.
 
----
 
 ## 🌐 Connect With Me  
 📫 **Email:** siradukunda29@amherst.edu  
@@ -24,8 +18,6 @@ A Java-based queue automation system designed to streamline organization and imp
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
----
 
 ## 🧰 Languages & Tools
 
@@ -43,12 +35,7 @@ A Java-based queue automation system designed to streamline organization and imp
   <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
 
 ## 💡 Fun Fact  
 I believe every problem has a solution — the real art is finding it without saying “yes” or “no.” 😉
 
----
-
-## 🙌 Thanks for Visiting!
-Feel free to explore my repositories — more exciting projects are on the way!
