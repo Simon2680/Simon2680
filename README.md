@@ -5,7 +5,7 @@
 🎶 I enjoy **music, dance, programming, and swimming**   
 
 ###### 🚀 What I'm Working On  
-###### **SmartQueue Management System**  
+###### **SmartQueue**  
 A Java-based queue automation system designed to streamline organization and improve efficiency.
 
 
