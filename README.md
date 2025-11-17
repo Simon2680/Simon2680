@@ -1,51 +1,75 @@
-# 👋 Hey, I'm Simon!
+# 🌟 Hey, I'm **Simon** 👋  
+### 🇷🇼 Developer • Amherst College Student • Tech Enthusiast  
 
-🎓 **Undergraduate student at Amherst College**  
-💻 Currently taking **Java** and building cool things  
-📍 From Rwanda
-
----
-
-### 🚀 About Me
-I'm a passionate and curious developer who enjoys solving problems and building creative projects.  
-I have experience in:
-
-- **Java**
-- **Python**
-- **C**
-- Basic computer science concepts  
-- System thinking and project building
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react&hide_border=true" />
+</p>
 
 ---
 
-### 🔧 What I'm Working On
-**SmartQueue Management System**  
-A simple system that improves and automates queue organization using Java.
+## 🔥 About Me  
+🎓 First-year student at **Amherst College**, currently taking **Java**  
+💻 Passionate about **software development**, **problem-solving**, and building real systems  
+🎶 I enjoy **music, dance, programming, and swimming**  
+🌍 Proudly from **Rwanda**, aspiring to build tech solutions that matter  
 
 ---
 
-### 📚 What I'm Learning
-- Object-Oriented Programming in **Java**
-- Data structures & algorithms
-- Building real-world projects from scratch
+## 🚀 What I'm Working On  
+### **SmartQueue Management System**  
+A Java-based queue automation system designed to streamline organization and improve efficiency.
 
 ---
 
-### 🎵 Hobbies & Interests
-- Music  
-- Dance  
-- Programming  
-- Swimming  
-
-Life feels better when I balance both creativity and logic.
+## 📚 What I'm Learning  
+- Object-Oriented Programming in **Java**  
+- Python scripting & automation  
+- Basics of **C programming**  
+- Building structured real-world projects  
 
 ---
 
-### 📫 Connect With Me
-- **Email:** siradukunda29@amherst.edu  
-- **LinkedIn:** [Iradukunda Simon](https://www.linkedin.com/in/iradukunda-simon)
+## 🌐 Connect With Me  
+📫 **Email:** siradukunda29@amherst.edu  
+🔗 **LinkedIn:** [Iradukunda Simon](https://www.linkedin.com/in/iradukunda-simon)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/iradukunda-simon">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-Thanks for visiting my profile! 😊  
-Feel free to explore my repositories — more projects coming soon!
+## 🧰 Languages & Tools
+
+### **Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+### **Tools & Technologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&hide_border=true" />
+</p>
+
+---
+
+## 💡 Fun Fact  
+I believe every problem has a solution — the real art is finding it without saying “yes” or “no.” 😉
+
+---
+
+## 🙌 Thanks for Visiting!
+Feel free to explore my repositories — more exciting projects are on the way!
