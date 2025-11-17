@@ -1,31 +1,17 @@
 # 🌟 Hey, I'm **Simon** 👋  
-### 🇷🇼 Developer • Amherst College Student • Tech Enthusiast  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react&hide_border=true" />
-</p>
-
+### Developer • Amherst College Student • Tech Enthusiast  
 ---
 
 ## 🔥 About Me  
 🎓 First-year student at **Amherst College**, currently taking **Java**  
 💻 Passionate about **software development**, **problem-solving**, and building real systems  
-🎶 I enjoy **music, dance, programming, and swimming**  
-🌍 Proudly from **Rwanda**, aspiring to build tech solutions that matter  
+🎶 I enjoy **music, dance, programming, and swimming**   
 
 ---
 
 ## 🚀 What I'm Working On  
 ### **SmartQueue Management System**  
 A Java-based queue automation system designed to streamline organization and improve efficiency.
-
----
-
-## 📚 What I'm Learning  
-- Object-Oriented Programming in **Java**  
-- Python scripting & automation  
-- Basics of **C programming**  
-- Building structured real-world projects  
 
 ---
 
@@ -55,13 +41,6 @@ A Java-based queue automation system designed to streamline organization and imp
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&hide_border=true" />
 </p>
 
 ---
