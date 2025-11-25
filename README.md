@@ -4,10 +4,7 @@
 💻 Passionate about **software development**, **problem-solving**, and building real systems  
 🎶 I enjoy **music, dance, programming, and swimming**   
 
-###### 🚀 What I'm Working On  
-###### **SmartQueue**  
-A Java-based queue automation system designed to streamline organization and improve efficiency.
-
+🔗 **Check out my personal website:** [simon2680.github.io](https://simon2680.github.io/profile.html/)
 
 ###### 🌐 Connect With Me  
 📫 **Email:** siradukunda29@amherst.edu  
@@ -26,20 +23,18 @@ A Java-based queue automation system designed to streamline organization and imp
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellowgreen?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
 ###### **Tools & Technologies**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-purple?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/AntiGravity-lightblue?style=for-the-badge&logo=antigravity&logoColor=white" />
 </p>
-
 
 ###### 💡 Fun Fact  
 I believe every problem has a solution — the real art is finding it without saying “yes” or “no.” 😉
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simon2680)](https://github.com/simon2680/github-readme-stats)
-
-
-
