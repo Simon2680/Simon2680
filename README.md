@@ -39,3 +39,5 @@ A Java-based queue automation system designed to streamline organization and imp
 ###### 💡 Fun Fact  
 I believe every problem has a solution — the real art is finding it without saying “yes” or “no.” 😉
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simon2680&show_icons=true&theme=radical)
+
