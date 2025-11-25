@@ -39,7 +39,7 @@ A Java-based queue automation system designed to streamline organization and imp
 ###### 💡 Fun Fact  
 I believe every problem has a solution — the real art is finding it without saying “yes” or “no.” 😉
 
-![Simon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Simon2680&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simon2680)](https://github.com/simon2680/github-readme-stats)
 
 
 
