@@ -36,5 +36,3 @@
   <img src="https://img.shields.io/badge/AntiGravity-lightblue?style=for-the-badge&logo=antigravity&logoColor=white" />
 </p>
 
-###### 💡 Fun Fact  
-I believe every problem has a solution — the real art is finding it without saying “yes” or “no.” 😉
