@@ -1,6 +1,6 @@
 #### 🌟 Hey, I'm **Simon** 👋  
 ###### Developer • Amherst College Student • Tech Enthusiast    
-🎓 First-year student at **Amherst College**, currently taking **Java**  
+🎓 Sophomore student at **Amherst College**, currently taking **Java**  
 💻 Passionate about **software development**, **problem-solving**, and building real systems  
 🎶 I enjoy **music, dance, programming, and swimming**   
 
