@@ -4,7 +4,7 @@
 💻 Passionate about **software development**, **problem-solving**, and building real systems  
 🎶 I enjoy **music, dance, programming, and swimming**   
 
-🔗 **Check out my personal website:** [simon2680.github.io](https://simon2680.github.io/profile.html/)
+🔗 **Check out my personal website:** https://simon-website-d7fl.onrender.com
 
 ###### 🌐 Connect With Me  
 📫 **Email:** siradukunda29@amherst.edu  
